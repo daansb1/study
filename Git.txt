@@ -1,1 +1,13 @@
-Banco de dados - 02 - PHPmyadmin
+Introdução Geral - Finalizado
+HTML e CSS - Finalizado
+HTML5 e CSS3 - Finalizado
+Fundamentos de Programação - Finalizado
+Git - Versionamento de código - Finalizado
+Javascript Básico - Finalizado
+Javascript Intermediário - Finalizado
+Banco de dados - Finalizado
+PHP intermediário - Fazendo
+bootstrap v4 - Pulei
+PHP avançado - Pulei
+JavascriptAvançado - Finalizado
+
