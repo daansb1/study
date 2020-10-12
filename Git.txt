@@ -10,7 +10,7 @@ PHP intermediário - Pulei
 bootstrap v4 - Pulei
 PHP avançado - Pulei
 JavascriptAvançado - Finalizado
-Jquery -  Fazendo
+Jquery -  Parei na Aula 12
 Projeto - Criando um Classificados
 PHP Super avançado
 PHP Jedi
@@ -20,10 +20,10 @@ PHP & Segurança - Blindando Aplicações
 Webservices
 Frameworks
 Arquitetura da Informação
-Desenvolvimento Agil
+Desenvolvimento Agil - Finalizado
 Marketing Digital
 Produtividade
-Vendas
+Vendas - Finalizado
 AngulasJS
 NodeJS
 Projeto -  Site Instucional
