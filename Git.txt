@@ -6,8 +6,33 @@ Git - Versionamento de código - Finalizado
 Javascript Básico - Finalizado
 Javascript Intermediário - Finalizado
 Banco de dados - Finalizado
-PHP intermediário - Fazendo
+PHP intermediário - Pulei
 bootstrap v4 - Pulei
 PHP avançado - Pulei
 JavascriptAvançado - Finalizado
+Jquery -  Fazendo
+Projeto - Criando um Classificados
+PHP Super avançado
+PHP Jedi
+PHP 7
+PHP Orientado a Testes
+PHP & Segurança - Blindando Aplicações
+Webservices
+Frameworks
+Arquitetura da Informação
+Desenvolvimento Agil
+Marketing Digital
+Produtividade
+Vendas
+AngulasJS
+NodeJS
+Projeto -  Site Instucional
+Projeto - Recriando o Twitter
+Projeto - Plataforma EAD
+Projeto - Criando um CMS
+Projeto - Loja Virtual 1.0 (Antigo)
+Projeto - Loja Virtual 2.0
+Projeto - Recriando o ContaAzul
+Projeto - Mini-Frameworks
+Projeto - Sistema de Chat
 
