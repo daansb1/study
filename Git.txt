@@ -10,7 +10,7 @@ PHP intermediário - Pulei
 bootstrap v4 - Pulei
 PHP avançado - Pulei
 JavascriptAvançado - Finalizado
-Jquery -  Parei na Aula 12
+Jquery -  Parei na Aula 24
 Projeto - Criando um Classificados
 PHP Super avançado
 PHP Jedi
